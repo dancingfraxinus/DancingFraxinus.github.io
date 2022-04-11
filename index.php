@@ -12,8 +12,8 @@
   <meta-http-equiv="refresh" content="30">
   <!-- END Metadata -->
 
-<link rel="stylesheet" href="/style.css">
-<script src="https://kit.fontawesome.com/ad523a7c4c.js" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="/style.css">
+  <script src="https://kit.fontawesome.com/ad523a7c4c.js" crossorigin="anonymous"></script>
 
 </head>
   <body>
@@ -22,10 +22,11 @@
     <div class="landing">
     <h1>Hi. I'm Liz.</h1>
     <p>I make Websites.</p>
-    <a href="https://dribbble.com/dancingfraxinus"><i class="fa-brands fa-dribbble"></i></a>
-    <a href="https://github.com/dancingfraxinus"><i class="fa-brands fa-github"></i></a>
-    <a href="https://www.linkedin.com/in/ashlieelizabethmoore/"><i class="fa-brands fa-linkedin-in"></i></a>
-
+    <p>
+      <a href="https://dribbble.com/dancingfraxinus" target="_blank"><i class="fa-brands fa-dribbble"></i></a>
+      <a href="https://github.com/dancingfraxinus" target="_blank"><i class="fa-brands fa-github"></i></a>
+      <a href="https://www.linkedin.com/in/ashlieelizabethmoore/" target="_blank"><i class="fa-brands fa-linkedin-in"></i></a>
+    </p>
   </div>
   <!-- End .Landing -->
 
